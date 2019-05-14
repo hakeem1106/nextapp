@@ -1,0 +1,1 @@
+{"version":3,"file":"static/webpack/static/development/pages/index.js.5cf2fe88742feeac2fe0.hot-update.js","sources":["webpack:///./pages/index.js"],"sourcesContent":["function Login(){\n\nrender()\n    return\n    <div>Works</div>\n}\n\nexport default Login"],"mappings":";;;;;;;;;;;;;;;;AAAA;AAEA;AACA;AACA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AACA;AACA;AACA;;;;A","sourceRoot":""}
