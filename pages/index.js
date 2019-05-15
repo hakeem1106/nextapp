@@ -1,4 +1,6 @@
-import Head from 'next/head'
+import Head from 'next/head';
+import "../css/style.css";
+import 'bootstrap'
 
 const Login=() => {
 
@@ -7,7 +9,7 @@ const Login=() => {
         <div>
         <Head>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        
+
         </Head>
             <div id="formy" className="position-absolute">
             <form method="POST" action="/index">
